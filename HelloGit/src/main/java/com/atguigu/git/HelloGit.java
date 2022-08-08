@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("在线更新");
         System.out.println("再次提交");
         System.out.println("再次在线更新");
+        System.out.println("克隆下来的项目添加");
     }
 }
